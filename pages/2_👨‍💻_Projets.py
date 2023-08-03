@@ -2,8 +2,7 @@ import streamlit as st
 import re
 import os
 import shutil
-import pandas as pd
-import plotly.express as px
+import pandas as pd 
 from streamlit_timeline import timeline
 import json
 import base64

@@ -3,7 +3,6 @@ import re
 import os
 import shutil
 import pandas as pd
-import plotly.express as px
 from streamlit_timeline import timeline
 import json
 import base64
