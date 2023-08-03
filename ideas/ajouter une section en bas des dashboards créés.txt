@@ -1,0 +1,18 @@
+rajouter par section , le projet qui m'a le plus? 
+plu techniquement ==> projet des arbres à contraintes
+où j'ai le plus galéré au début => Bug prediction 
+celui dans lequel j'ai le plus appris théoriquement parlant ==> Anomaly detection
+celui qui a le plus grand impact business pour l'instant ==> segmentation 
+celui qui mérite d'etre retravaillé ==> ACTIMAR
+celui où les données sont les moins propres ==> Normalisation des adresses 
+
+
+
+https://www.screamingfrog.co.uk/seo-spider/
+https://www.projectpro.io/project-use-case/market-basket-analysis-apriori-fpgrowth
+
+
+Web Scraping Project Idea #10 News Aggregation : créer un aggrégateur des 10 médias les plus connus de france, fais un summary des 10 articles (avec des liens qui dirigent vers les articles )  , faire de l'analyse de sentiment Bad/good, de la politique, et ensuite de l'analyse par catégorie de média
+With so many different news channels popping up, it is becoming increasingly difficult to keep track of all kinds of news that highlight relevant happenings worldwide. We all have our favourites for news channels, but no one channel has it all.
+
+Project Idea: This web scraping project will involve building a customized one-stop solution for relevant news from all around the world. You can pick websites that you prefer and scrape data from them to gather news. The next step would be to use a text summariser machine learning NLP-based project and submit relevant news.

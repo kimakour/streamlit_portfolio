@@ -1,0 +1,52 @@
+<mxfile host="app.diagrams.net" modified="2023-07-26T13:47:46.535Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="0GTobbwMWUm_05cLmOO1" version="21.6.5" type="device">
+  <diagram name="Page-1" id="yLuK1JA93Ii4snccJo0v">
+    <mxGraphModel dx="794" dy="438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5MFuqV6dT1OxRRbYAPmt-1" value="Data&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="160" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5MFuqV6dT1OxRRbYAPmt-2" value="feature selection" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="340" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5MFuqV6dT1OxRRbYAPmt-3" value="Hyperparameters&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="340" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5MFuqV6dT1OxRRbYAPmt-4" value="Data exploration" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="340" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5MFuqV6dT1OxRRbYAPmt-6" value="adding constraints" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="620" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5MFuqV6dT1OxRRbYAPmt-7" value="Variables + Values" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="560" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5MFuqV6dT1OxRRbYAPmt-8" value="Variables" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="690" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5MFuqV6dT1OxRRbYAPmt-10" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.application_load_balancer;fillColor=#F58534;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="645.5" y="30.819999999999993" width="69" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="5MFuqV6dT1OxRRbYAPmt-11" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.worker;fillColor=#D9A741;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="520" y="440" width="60" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="5MFuqV6dT1OxRRbYAPmt-12" value="" style="image;html=1;image=img/lib/clip_art/computers/Data_Filtering_128x128.png" parent="1" vertex="1">
+          <mxGeometry x="370" y="22.819999999999993" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5MFuqV6dT1OxRRbYAPmt-13" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/databases.svg;" parent="1" vertex="1">
+          <mxGeometry x="195" y="102.82" width="50" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="5MFuqV6dT1OxRRbYAPmt-14" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=90;" parent="1" vertex="1">
+          <mxGeometry x="430" y="130" width="20" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="5MFuqV6dT1OxRRbYAPmt-15" value="Via a Flask app" style="shape=ext;double=1;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" parent="1" vertex="1">
+          <mxGeometry x="390" y="365" width="107" height="107" as="geometry" />
+        </mxCell>
+        <mxCell id="5MFuqV6dT1OxRRbYAPmt-16" value="Results: probabilities / classif/ ranking, pkl file, tree graph with graphviz...etc" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" vertex="1">
+          <mxGeometry x="590" y="460" width="430" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

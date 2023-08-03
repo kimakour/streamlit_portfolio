@@ -1,0 +1,21 @@
+{
+  "Prédiction de brume":"./images/actimar_fr.jpg",
+  "Prédiction de bugs":"./images/amadeus_fr.png",
+  "Détection d'anomalies":"./images/planisware_fr.png",
+  "Modélisation de churn":"./images/hsbc_fr.png",
+  "Normalisation d'adresses":"./images/cadastres_fr.png",
+  "Segmentation de débiteurs":"./images/segmentation_debiteurs_fr.png",
+  "Aggregation de contrôles":"./images/controle_interne_fr.png",
+  "Arbres à contraintes":"./images/arbre_a_contraintes_fr.png",
+  "Automatisation Pricing":"./images/auto_pricing_fr.png",
+  "Mist sea prediction":"./images/actimar_en.png",
+  "Bug prediction":"./images/amadeus_en.png",
+  "Time entry anomaly detection":"./images/planisware_en.png",
+  "Churn modeling":"./images/hsbc_en.png",
+  "Adress normalization":"./images/cadastres_en.png",
+  "Debtor segmentation":"./images/segmentation_debiteurs_en.png",
+  "Control aggregation":"./images/controle_interne_en.png",
+  "Tree decisions with constraints":"./images/arbre_a_contraintes_en.png",
+  "Auto Pricing":"./images/auto_pricing_en.png"
+
+}

@@ -1,0 +1,116 @@
+{
+  "en":{
+    "presentation":{
+      "name_presentation": "<h2><span style='color: #333333;'>Hey, my name is</span> <span style='color: #339966;'>Kaci MAKOUR</span><span style='color: #333333;'> and welcome to my Porfolio.</span></h2> ",
+      "work_presentation":"<h4><span style='color: #808080;'>I'm currently working as a Data scientist at IQera, a debt recovery company.</span></h4> <h4><span style='color: #808080;'> I developed this application to create an interactive platform summarizing the main projects I've carried out in data science. I didn't want to use a pre-designed website, it's more fun to design your own web application. I'm always motivated to make my job a powerful tool for extracting meaningful knowledge from large datasets, offering insights and solutions to complex problems. I enjoy communicating my Data skills to enable others to benefit from this world of discovery."
+
+    },
+    "projects":{
+      "timeline":{
+        "header_timeline":"<h2><span style='font-weight: 400;'>📆 </span><span style='font-weight: 400;'> Data Projects Timeline </span></h2>",
+        "path_timeline":"./json_files/timeline_en.json"
+
+      },
+      "pipeline":{
+        "hearder_pipeline":"<h2><span style='font-weight: 400;'>🏗️ </span><span style='font-weight: 400;'> Want to know more about each project's pipeline ?</span></h2>",
+        "option_pipeline_question":"Choose the project",
+        "option_pipeline_project":["Mist sea prediction", "Bug prediction", "Time entry anomaly detection","Churn modeling", 
+        "Adress normalization", "Debtor segmentation","Control aggregation", "Tree decisions with constraints","Auto Pricing"],
+        "pipeline_keywords":{
+          "Mist sea prediction":["geographical data", "METAR", "Kriging", "Regression"],
+          "Bug prediction":["code data", "SZZ Algorithm", "git package", "Classification"],
+          "Time entry anomaly detection":["project management data", "text processing", "Isolation Forest", "SHAP" ],
+          "Churn modeling":["Banking data", "Economic Open data", "Uplift Models", "Interpretability"], 
+          "Adress normalization":["text data and Regex", "Geopy", "Cadastral open data", "Data quality"], 
+          "Debtor segmentation":["Banking data", "Tree based models", "Ranking", "Segmentation" ],
+          "Control aggregation":["Audit", "Data engineering", "Streamlit", "Reporting"],
+          "Tree decisions with constraints":["From scratch", "Modeling", "Flask", "Classification and Ranking"],
+          "Auto Pricing":["Pricing", "Simulations", "Dash", "Data app"]
+        }
+
+      },
+      "dashboards":{
+        "hearder_dashboard":"<h2><span style='font-weight: 400;'>📊</span><span style='font-weight: 400;'> Dashboards/ web app demos with Python</span></h2>",
+        "markdown_dashboard_remark":"- Using open data for the demos.",
+        "option_dashboard_question":"Choose the framework",
+        "option_dashboard_framework":["Dash", "Flask", "Streamlit"],
+        "framework_explanation":{
+          "Dash":"<table> <tbody> <tr> <td> <p><span style='font-weight: 400;'>Create a dashboard with Dash framework (from Plotly) with three major areas: exploratory data analysis, model evaluation and model interpretability (Global and local interpretation using the SHAP package).</span></p> </td> </tr> </tbody> </table>",
+          "Flask":"",
+          "Streamlit":""
+        },
+        "framework_demo":{
+          "Dash":"./images/out_dash.gif",
+          "Flask":"",
+          "Streamlit":""
+        }
+      }
+
+    },
+    "side_bar":{
+      "download_button":{
+        "download_description":"📂 Download Resume",
+        "download_file":"pdf_files/cv_kaci_makour_2022_en.pdf"
+      }
+    },
+    "litterature":"<h2><span style='font-weight: 400;'>🏄&zwj;♂️ </span><span style='font-weight: 400;'>Practical cases and hands-on Machine Learning &nbsp;</span></h2> <ul> <li style='font-weight: 400;' aria-level='1'><a href='https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/'><span style='font-weight: 400;'>Hands on machine learning</span></a><span style='font-weight: 400;'>&nbsp;</span></li> <li style='font-weight: 400;' aria-level='1'><a href='https://machinelearningmastery.com/'><span style='font-weight: 400;'>Machine learning mastery</span></a></li> <li style='font-weight: 400;' aria-level='1'><a href='https://www.analyticsvidhya.com/blog/?utm-source=feed'><span style='font-weight: 400;'>Analytics Vidhya</span></a><span style='font-weight: 400;'>&nbsp;</span></li> </ul> <p><span style='font-weight: 400;'>&nbsp;</span></p> <h2><span style='font-weight: 400;'>💭 </span><span style='font-weight: 400;'>Topics for further study</span></h2> <ul> <li style='font-weight: 400;' aria-level='1'><a href='http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf'><span style='font-weight: 400;'>Pattern recognition&nbsp;</span></a></li> <li style='font-weight: 400;' aria-level='1'><a href='https://hastie.su.domains/Papers/ESLII.pdf'><span style='font-weight: 400;'>The elements of statistical learning</span></a><span style='font-weight: 400;'>&nbsp;</span></li> <li style='font-weight: 400;' aria-level='1'><a href='https://books.google.fr/books/about/Time_Series_Analysis.html?id=rNt5CgAAQBAJ&amp;redir_esc=y'><span style='font-weight: 400;'>Time Series Analysis</span></a><span style='font-weight: 400;'>&nbsp;</span></li> <li style='font-weight: 400;' aria-level='1'><a href='https://otexts.com/fpp2/'><span style='font-weight: 400;'>Forecasting principles and practice</span></a><span style='font-weight: 400;'>&nbsp;</span></li> <li style='font-weight: 400;' aria-level='1'><a href='https://www.oreilly.com/library/view/advanced-analytics-with/9781098103644/'><span style='font-weight: 400;'>Advanced analytics with pyspark</span></a><span style='font-weight: 400;'>&nbsp;</span></li> <li style='font-weight: 400;' aria-level='1'><a href='https://christophm.github.io/interpretable-ml-book/'><span style='font-weight: 400;'>Interpretable machine learning</span></a><span style='font-weight: 400;'>&nbsp;&nbsp;</span></li> <li style='font-weight: 400;' aria-level='1'><a href='https://www.deeplearning.ai/courses/'><span style='font-weight: 400;'>DeeplearningAI</span></a></li> </ul> <p><span style='font-weight: 400;'>&nbsp;</span></p> <h2><span style='font-weight: 400;'>🧠 </span><span style='font-weight: 400;'>Cross-cutting topics&nbsp;</span></h2> <ul> <li style='font-weight: 400;' aria-level='1'><span style='font-weight: 400;'>Marketing/ Digital Marketing : </span><a href='https://www.amazon.com/Data-Driven-Marketing-Metrics-Everyone-Should/dp/0470504544'><span style='font-weight: 400;'>Data driven Marketing metrics</span></a></li> <li style='font-weight: 400;' aria-level='1'><span style='font-weight: 400;'>Storytelling &amp; data viz : </span><a href='https://www.amazon.com/Storytelling-Data-Visualization-Business-Professionals/dp/1119002257'><span style='font-weight: 400;'>Storytelling with data</span></a><span style='font-weight: 400;'>&nbsp;</span></li> <li style='font-weight: 400;' aria-level='1'><span style='font-weight: 400;'>Business analytics: </span><a href='https://www.amazon.com/Data-Science-Business-Data-Analytic-Thinking/dp/1449361323'><span style='font-weight: 400;'>Data science for business</span></a></li> </ul> <h2><br /><br /></h2> <p><span style='font-weight: 400;'>&nbsp;</span></p> <h2><br /><br /></h2>"
+
+  },
+  "fr":{
+    "presentation":{
+      "name_presentation": "<h2><span style='color: #333333;'>Bonjour, je m'appelle</span> <span style='color: #339966;'>Kaci MAKOUR</span> <span style='color: #333333;'>et bienvenue sur mon Porfolio.</span> </h2>",
+      "work_presentation": "<h4><span style='color: #999999;'>Je travaille actuellement en tant que Data scientist chez IQera, une soci&eacute;t&eacute; de recouvrement de cr&eacute;ances.</span></h4> <h4><span style='color: #999999;''>J'ai d&eacute;velopp&eacute; cette application afin de cr&eacute;er une plateforme interactive r&eacute;sumant les principaux projets que j'ai r&eacute;alis&eacute;s en data science. Je ne voulais pas utiliser un site web d&eacute;j&agrave; con&ccedil;u, c'est plus amusant de concevoir sa propre application web. je suis toujours motivé pour faire de mon job un puissant outil permettant d'extraire des connaissances significatives à partir de vastes ensembles de données, offrant ainsi des insights et des solutions aux problèmes complexes. Je prends plaisir à communiquer mes compétences en matière de Data pour permettre à d'autres de tirer parti de cet univers de découvertes.</span></h4>"
+
+    },
+    "projects":{
+      "timeline":{
+        "header_timeline":"<h2><span style='font-weight: 400;'>📆</span><span style='font-weight: 400;'> Timeline des projets data réalisés</span></h2>",
+        "path_timeline":"./json_files/timeline_fr.json"
+
+      },
+      "pipeline":{
+        "hearder_pipeline":"<h2><span style='font-weight: 400;'>🏗️</span><span style='font-weight: 400;'> En savoir plus sur les pipelines de traitement de chaque projet ?</span></h2>",
+        "option_pipeline_question":"Quel projet choisir ?",
+        "option_pipeline_project":["Prédiction de brume", "Prédiction de bugs", "Détection d'anomalies","Modélisation de churn", "Normalisation d'adresses",
+         "Segmentation de débiteurs","Aggregation de contrôles","Arbres à contraintes","Automatisation Pricing" ],
+        "pipeline_keywords":{
+          "Prédiction de brume":["Données géographiques", "METAR", "Krigeage", "Régression"],
+          "Prédiction de bugs":["Données de code", "Algorithme SZZ", "Package git", "Classification"],
+          "Détection d'anomalies":["Données de gestion de projet", "traitement de texte", "Isolation Forest", "SHAP" ],
+          "Modélisation de churn":["Données bancaires", "Open data macroéconomiques", "Uplift Models", "Interpretabilité"], 
+          "Normalisation d'adresses":["Données textuelles et Regex", "Geopy", "Open data cadastres", "Construction de base"], 
+          "Segmentation de débiteurs":["Données bancaires", "modèles d'arbres", "Ranking", "Segmentation" ],
+          "Aggregation de contrôles":["Audit", "Data engineering", "Streamlit", "Reporting"],
+          "Arbres à contraintes":["From scratch", "Modélisation", "Flask", "Classification et Ranking"],
+          "Automatisation Pricing":["Pricing", "Simulations", "Dash", "Data app"]
+        }
+
+      },
+      "dashboards":{
+        "hearder_dashboard":"<h2><span style='font-weight: 400;'>📊</span><span style='font-weight: 400;'> Quelques prototypes de dashboards/ app web réalisés en Python</span></h2>",
+        "markdown_dashboard_remark":"- Utilisation d'open data pour les démos.",
+        "option_dashboard_question":"Quel framework choisir ?",
+        "option_dashboard_framework":["Dash", "Flask", "Streamlit"],
+        "framework_explanation":{
+          "Dash":"<table> <tbody> <tr> <td> <p><span style='font-weight: 400;'>Utilisation du framework Dash de Plotly afin de cr&eacute;er un dashboard permettant de faire de l'analyse exploratoire de donn&eacute;es, de faire de l'&eacute;valuation de performance d'un mod&egrave;le et de faire de l'interpretabilit&eacute; de modele sur l'aspect global et observation par observation en utilisant le package SHAP.</span></p> </td> </tr> </tbody> </table>",
+          "Flask":"",
+          "Streamlit":""
+        },
+        "framework_demo":{
+          "Dash":"./images/out_dash.gif",
+          "Flask":"",
+          "Streamlit":""
+        }
+      }
+
+    },
+    "side_bar":{
+      "download_button":{
+        "download_description":"📂 Télécharger CV",
+        "download_file":"pdf_files/cv_kaci_makour_2022_fr.pdf"
+      }
+    },
+    "litterature":"<h2><span style='font-weight: 400;'>🏄&zwj;♂️ </span><span style='font-weight: 400;'>Cas Pratiques et prise en main en Machine Learning&nbsp;&nbsp;</span></h2> <ul> <li style='font-weight: 400;' aria-level='1'><a href='https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/'><span style='font-weight: 400;'>Hands on machine learning</span></a><span style='font-weight: 400;'>&nbsp;</span></li> <li style='font-weight: 400;' aria-level='1'><a href='https://machinelearningmastery.com/'><span style='font-weight: 400;'>Machine learning mastery</span></a></li> <li style='font-weight: 400;' aria-level='1'><a href='https://www.analyticsvidhya.com/blog/?utm-source=feed'><span style='font-weight: 400;'>Analytics Vidhya</span></a><span style='font-weight: 400;'>&nbsp;</span></li> </ul> <p><span style='font-weight: 400;'>&nbsp;</span></p> <h2><span style='font-weight: 400;'>💭 </span><span style='font-weight: 400;'>Sujets d'approfondissements</span></h2> <ul> <li style='font-weight: 400;' aria-level='1'><a href='http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf'><span style='font-weight: 400;'>Pattern recognition&nbsp;</span></a></li> <li style='font-weight: 400;' aria-level='1'><a href='https://hastie.su.domains/Papers/ESLII.pdf'><span style='font-weight: 400;'>The elements of statistical learning</span></a><span style='font-weight: 400;'>&nbsp;</span></li> <li style='font-weight: 400;' aria-level='1'><a href='https://books.google.fr/books/about/Time_Series_Analysis.html?id=rNt5CgAAQBAJ&amp;redir_esc=y'><span style='font-weight: 400;'>Time Series Analysis</span></a><span style='font-weight: 400;'>&nbsp;</span></li> <li style='font-weight: 400;' aria-level='1'><a href='https://otexts.com/fpp2/'><span style='font-weight: 400;'>Forecasting principles and practice</span></a><span style='font-weight: 400;'>&nbsp;</span></li> <li style='font-weight: 400;' aria-level='1'><a href='https://www.oreilly.com/library/view/advanced-analytics-with/9781098103644/'><span style='font-weight: 400;'>Advanced analytics with pyspark</span></a><span style='font-weight: 400;'>&nbsp;</span></li> <li style='font-weight: 400;' aria-level='1'><a href='https://christophm.github.io/interpretable-ml-book/'><span style='font-weight: 400;'>Interpretable machine learning</span></a><span style='font-weight: 400;'>&nbsp;&nbsp;</span></li> <li style='font-weight: 400;' aria-level='1'><a href='https://www.deeplearning.ai/courses/'><span style='font-weight: 400;'>DeeplearningAI</span></a></li> </ul> <p><span style='font-weight: 400;'>&nbsp;</span></p> <h2><span style='font-weight: 400;'>🧠 </span><span style='font-weight: 400;'>Sujets transverses&nbsp;</span></h2> <ul> <li style='font-weight: 400;' aria-level='1'><span style='font-weight: 400;'>Marketing/ Digital Marketing : </span><a href='https://www.amazon.com/Data-Driven-Marketing-Metrics-Everyone-Should/dp/0470504544'><span style='font-weight: 400;'>Data driven Marketing metrics</span></a></li> <li style='font-weight: 400;' aria-level='1'><span style='font-weight: 400;'>Storytelling et data viz : </span><a href='https://www.amazon.com/Storytelling-Data-Visualization-Business-Professionals/dp/1119002257'><span style='font-weight: 400;'>Storytelling with data</span></a><span style='font-weight: 400;'>&nbsp;</span></li> <li style='font-weight: 400;' aria-level='1'><span style='font-weight: 400;'>Business analytics: </span><a href='https://www.amazon.com/Data-Science-Business-Data-Analytic-Thinking/dp/1449361323'><span style='font-weight: 400;'>Data science for business</span></a></li> </ul> <h2><br /><br /></h2> <p><span style='font-weight: 400;'>&nbsp;</span></p> <h2><br /><br /></h2>"
+
+  }
+}
