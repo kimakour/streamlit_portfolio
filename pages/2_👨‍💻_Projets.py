@@ -93,13 +93,6 @@ contents = file_.read()
 data_url = base64.b64encode(contents).decode("utf-8")
 file_.close()
 
-
-col1_dashboard, col2_dashboard = st.columns((2, 1))
-
-with col1_dashboard:
-    st.markdown(
-        "<img src='data:image/gif;base64,{}' alt='demo gif'>".format(data_url),
-        unsafe_allow_html=True,
-        )
-with col2_dashboard:
-    st.markdown(data_language[st.session_state['language_chosen']]["projects"]["dashboards"]["framework_explanation"][option_dashboard], unsafe_allow_html=True)
+st.markdown("<img src='data:image/gif;base64,{}' alt='demo gif'>".format(data_url),
+            unsafe_allow_html=True)
+st.markdown(data_language[st.session_state['language_chosen']]["projects"]["dashboards"]["framework_explanation"][option_dashboard], unsafe_allow_html=True)
