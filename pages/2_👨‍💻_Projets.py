@@ -14,7 +14,7 @@ st.set_page_config(
     layout="wide"
 )
 
-_no_1,_no_2,_no_3,_no_4,col_5_language,col_6_language = st.columns((1,1,1,1,0.25,0.25))    
+_no_1,_no_2,_no_3,_no_4,col_5_language,col_6_language = st.columns((1,1,1,1,0.5,0.5))    
 with col_5_language:
     button_en = st.button(label='EN', key='en')
 with col_6_language:
