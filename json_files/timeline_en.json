@@ -12,7 +12,7 @@
         },
         "text": {
           "headline": "Sea mist prediction.",
-          "text": "<p>In collaboration with IMT ATLANTIQUE and ACTIMAR.<br> Building a pipeline to predict sea mist in real time using meteorological and geographical and METAR data collected from Brest airport. </p>"
+          "text": "<p>In collaboration with IMT ATLANTIQUE and ACTIMAR.<br> Building a pipeline to predict sea mist in real time using meteorological and geographical and METAR data collected from Brest airport.  The aim is to add an analytical/statistical component to Actimar's expertise in this important factor for maritime navigation.</p>"
         }
       },
       {
@@ -40,7 +40,7 @@
         },
         "text": {
           "headline": "Bug prediction.",
-          "text": "Internship at Amadeus which consists in the creation of a bug prediction model that alerts the developers in case of a high probability of causing a bug."
+          "text": "Internship at Amadeus which consists in the creation of a bug prediction model that alerts the developers in case of a high probability of causing a bug. the training/ testing observations were labeled using the SZZ heuristic (state of the art in bug labeling)."
         }
       },
       {
@@ -54,7 +54,7 @@
         },
         "text": {
           "headline": "Detection of task entry anomalies in Planisware",
-          "text": "Internship within Planisware which consists in creating an anomaly detection model regarding to task entries in Planisware software. Once the anomaly is detected (predefined threshold) it will be sent to a manager who will confirm or deny it."
+          "text": "Internship within Planisware which consists in creating an anomaly detection model regarding to task entries in Planisware software. Once the anomaly is detected (predefined threshold) it will be sent to a manager who will confirm or deny it. The aim of the project is to keep the software very permissible and free, while maintaining compliance levers."
         }
       },
       {
@@ -68,7 +68,7 @@
         },
         "text": {
           "headline": "Churn Modeling",
-          "text": "Project at HSBC which consists in creating a churn model to simulate the efficiency of a marketing action using uplift models."
+          "text": "Project at ITM ATLANTIQUE in collaboration with HSBC France to create a model for targeting customers with a high probability of cancelling their provident insurance contract. The model used is based on Uplift models, which calculate the effectiveness of a marketing campaign or sales action for a given category of customer. The idea is to target those customers who will 'churn' and who may change their mind as a result of a sales action."
         }
       },
       {
@@ -110,7 +110,7 @@
         },
         "text": {
           "headline": "Audit control aggregation app with streamlit",
-          "text": "The application created has enabled us to consolidate over 500 controls (with their specific features) per month, and to carry out automatic e-mail reminders and anomaly reporting. The application helps internal control managers to automate their control consolidation tasks and focus on exploiting the results."
+          "text": "The application helps internal control managers to automate their control consolidation tasks and focus on exploiting the results. The application has made it possible to consolidate more than 500 controls (with their specific features) per month, and to carry out automatic e-mail reminders and anomaly reporting. The project is in line with the company's strong desire to digitize and automate all processes that are redundant and offer no added value for employees."
         }
       },
       {

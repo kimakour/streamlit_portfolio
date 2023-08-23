@@ -12,7 +12,7 @@
         },
         "text": {
           "headline": "Prédiction de la brume de mer.",
-          "text": "<p>En collaboration avec l'IMT ATLANTIQUE et ACTIMAR.<br> Projet de création d'un pipeline de prédiction de la brume de mer en temps réel à partir de données météo et géographiques et d'un enrichissement grâce à des données METAR de l'aéroport de Brest. </p>"
+          "text": "<p>En collaboration avec l'IMT ATLANTIQUE et ACTIMAR.<br> Projet de création d'un pipeline de prédiction de la brume de mer en temps réel à partir de données météo et géographiques et d'un enrichissement grâce à des données METAR de l'aéroport de Brest. Le but étant d'ajouter une brique analytique/statistique aux expertises d'Actimar concernant ce facteur important pour la navigation maritime. </p>"
         }
       },
       {
@@ -40,7 +40,7 @@
         },
         "text": {
           "headline": "Prédiction de bugs.",
-          "text": "Stage au sein d'Amadeus qui consiste en la création d'un modèle de prédiction de bugs qui permet d'alerter les developpeurs en cas d'une grande probabilité de causer un bug."
+          "text": "Stage au sein d'Amadeus qui consiste en la création d'un modèle de prédiction de bugs qui permet d'alerter les developpeurs en cas d'une grande probabilité de causer un bug. La labélisation des observations de training et de testing s'est faite en utilisant l'heuristique SZZ (état de l'art en labélisation de bugs)."
         }
       },
       {
@@ -54,7 +54,7 @@
         },
         "text": {
           "headline": "Détection d'anomalies de saisie sur Planisware",
-          "text": "Stage au sein de Planisware qui consiste à créer un modele de détection d'anomalies de saisie des collaborateurs. Une fois l'anomalie detectée ( seuil prédifini ) elle sera envoyée à un gestionnaire qui va la confirmer ou l'infirmer."
+          "text": "Stage au sein de Planisware qui consiste à créer un modèle de détection d'anomalies de saisie des collaborateurs. Une fois l'anomalie detectée ( seuil prédifini ), elle sera envoyée à un gestionnaire qui va la confirmer ou l'infirmer. Le but du projet est de garder un logiciel très permissible et libre tout en ayant des leviers de conformité."
         }
       },
       {
@@ -68,7 +68,7 @@
         },
         "text": {
           "headline": "Modélisation de churn",
-          "text": "Projet de fin d'études au sein d'HSBC qui consiste à créer un modèle de churn et l'éfficacité d'une action marketing suite à cela en utilisant des uplift models afin de définir la stratégie marketing optimale à utiliser."
+          "text": "Projet à l'IMT ATLANTIQUE en collaboration avec HSBC France afin de créer un modèle permettant de cibler les clients ayant une forte probabilité de résilier leur contrat de prévoyance. La modélisation utilisée est basée sur les Uplift models, des modèles permettant de calculer l'efficacité d'une campagne marketing ou d'une action commerciale pour une catégorie de clients donnée. L'idée est donc de cibler les clients qui vont 'churn' et qui peuvent changer d'avis suite à une action commerciale.  "
         }
       },
       {
@@ -110,7 +110,7 @@
         },
         "text": {
           "headline": "Création d'une application Streamlit pour l'aggregation de contrôle d'audit interne",
-          "text": "L'application créée a permis de consolider plus de 500 contrôles (avec leur spécificités) par mois, de faire de la relance mail automatique et du reporting d'anomalies. L'application aide les chargés de controle interne à automatiser leurs tâches de consolidation de contrôle et à se focaliser sur l'exploitation des résultats."
+          "text": "L'application aide les chargés de contrôle interne à automatiser leurs tâches de consolidation de contrôle et à se focaliser sur l'exploitation des résultats. L'application a permis de consolider plus de 500 contrôles (avec leur spécificités) par mois, de faire de la relance mail automatique et du reporting d'anomalies. Le projet s'inscrit dans une forte volonté de l'entreprise à se digitaliser et à automatiser tous les process redondants et sans plus value pour les collaborateurs."
         }
       },
       {
@@ -138,7 +138,7 @@
         },
         "text": {
           "headline": "Auto Pricing",
-          "text": "Création d'une application Dash permettant de faire des pricings de portefeuilles configurables, de faire de la prévision de couts, avec différents scénarios et simulations. Le but de l'application est d'automatiser les pricing en quelques clics et gagner en réactivité face aux enchères."
+          "text": "Création d'une application Dash permettant de faire des pricings de portefeuilles configurables, de faire de la prévision de coûts, avec différents scénarios et simulations. Le but de l'application est d'automatiser les pricing en quelques clics et gagner en réactivité face aux enchères."
         }
       }               
 
